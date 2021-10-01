@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442284406781",
+    "project_id": "mytodo-ebdd7",
+    "storage_bucket": "mytodo-ebdd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442284406781:android:d62512450351f4315e0b94",
+        "android_client_info": {
+          "package_name": "com.amartya.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442284406781-depu3b4i485i7mb4b6s7cb122l6a9dff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8WBzWhlcMgfrqDTdlZgE9WHx1ZnSnRCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442284406781-depu3b4i485i7mb4b6s7cb122l6a9dff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
